@@ -5,7 +5,7 @@
 * 3 7-Segments (I have used here a 4 7-Segment display)
 
 ## Description
-* Code written on VHDL
+* VHDL
 * By pressing a switch you can increment the number on the display
 * I'm only utilizing 3 segments. You can do a few changes and make it all 4 segments ;)
 
